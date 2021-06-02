@@ -2,11 +2,11 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "To my lover",
-        "There is laugh",
-        "There is tear",
-        "There is strength",
-        "There is love"
+        "To my lover:",
+        "There is laugh,",
+        "There is tear,",
+        "There is strength,",
+        "There is love."
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
