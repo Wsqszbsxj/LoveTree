@@ -2,7 +2,7 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "Dear Sytze",
+        "To my lover",
         "There is laugh",
         "There is tear",
         "There is strength",
