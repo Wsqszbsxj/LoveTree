@@ -8,7 +8,7 @@ var config = {
         "O is for optimism you gave me everyday,",
         "V is for value of being my best friend",
         "E, you need to guess, hahaha",
-        "Your beloved, Xiujie"
+        "Your beloved, Xiujie."
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
