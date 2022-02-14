@@ -7,7 +7,8 @@ var config = {
         "L is for laughter we had along the way,",
         "O is for optimism you gave me everyday,",
         "V is for value of being my best friend",
-        "E, you need to guess, hahaha"
+        "E, you need to guess, hahaha",
+        "Your beloved, Xiujie"
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
@@ -17,5 +18,5 @@ var config = {
     //          2.T不能丢了
     date: "2020-05-30T16:15:00",
     // 双方的名字
-    names: ["Sytze", "Xiujie"]
+    names: ["Sytze ", "Xiujie "]
 }
