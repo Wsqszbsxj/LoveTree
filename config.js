@@ -2,12 +2,12 @@ var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
         "To my lover:", 
-        "I am never good at writing things",
+        "I was never good at writing things",
         "Therefore here is my cheatsheet:",
         "L is for laughter we had along the way,",
         "O is for optimism you gave me everyday,",
         "V is for value of being my best friend",
-        "E, we need to guess, hahaha"
+        "E, you need to guess, hahaha"
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
